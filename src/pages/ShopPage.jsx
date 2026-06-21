@@ -28,7 +28,7 @@ export default function ShopPage() {
         kicker="Магазин"
         title="Догляд, інструмент і подарунки"
         lede="Косметика і інструмент, які ми використовуємо у барбершопі. Перевірені бренди — Reuzel, American Crew, Proraso — плюс власна лінійка Blade."
-        image="pixabay_1007875.jpg"
+        image="pixabay_1007875.webp"
         crumbs={[{ label: 'Магазин' }]}
       />
 

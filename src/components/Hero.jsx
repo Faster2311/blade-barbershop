@@ -25,7 +25,7 @@ export default function Hero() {
       <div className="absolute inset-0 z-0" aria-hidden="true">
         <div data-h="image" className="absolute inset-0 will-change-transform">
           <img
-            src={`${import.meta.env.BASE_URL}photos/pixabay_10297388.jpg`}
+            src={`${import.meta.env.BASE_URL}photos/pixabay_10297388.webp`}
             alt=""
             className="w-full h-full object-cover"
             fetchpriority="high"

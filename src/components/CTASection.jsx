@@ -8,7 +8,7 @@ export default function CTASection() {
     <section ref={root} id="zayavka" className="relative bg-ink-800 py-20 md:py-28 overflow-hidden">
       <div className="absolute inset-0" aria-hidden="true">
         <img
-          src={`${import.meta.env.BASE_URL}photos/pixabay_2675511.jpg`}
+          src={`${import.meta.env.BASE_URL}photos/pixabay_2675511.webp`}
           alt=""
           loading="lazy"
           className="w-full h-full object-cover opacity-25"

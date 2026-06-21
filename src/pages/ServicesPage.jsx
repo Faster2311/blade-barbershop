@@ -8,7 +8,7 @@ export default function ServicesPage() {
         kicker="Меню"
         title="Послуги барбершопу Blade"
         lede="Класичне меню чоловічого барбершопу. Ціна на сайті дорівнює ціні у касі. Перший візит — мінус 20%, скажи у Telegram, що вперше."
-        image="pixabay_1851535.jpg"
+        image="pixabay_1851535.webp"
         crumbs={[{ label: 'Послуги' }]}
       />
 

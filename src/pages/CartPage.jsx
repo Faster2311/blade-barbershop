@@ -74,7 +74,7 @@ export default function CartPage() {
           kicker="Замовлення"
           title="Дякуємо!"
           lede="Замовлення прийняли. Передзвонимо протягом 30 хвилин, узгодимо деталі доставки і оплати."
-          image="pixabay_5212054.jpg"
+          image="pixabay_5212054.webp"
           crumbs={[{ label: 'Кошик', to: '/cart' }, { label: 'Замовлено' }]}
         />
         <section className="bg-ink-800 py-16">
@@ -101,7 +101,7 @@ export default function CartPage() {
           kicker="Кошик"
           title="Кошик порожній"
           lede="Поки що порожньо. Заходь у магазин — є власні олії для бороди і набори для гоління."
-          image="pixabay_3134807.jpg"
+          image="pixabay_3134807.webp"
           crumbs={[{ label: 'Кошик' }]}
         />
         <section className="bg-ink-800 py-20 text-center">
@@ -117,7 +117,7 @@ export default function CartPage() {
         kicker="Кошик"
         title="Ваш кошик"
         lede={`У кошику ${totalQty} ${totalQty === 1 ? 'товар' : totalQty < 5 ? 'товари' : 'товарів'}. Перевірте і оформіть замовлення.`}
-        image="pixabay_3134807.jpg"
+        image="pixabay_3134807.webp"
         crumbs={[{ label: 'Кошик' }]}
       />
 

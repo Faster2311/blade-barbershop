@@ -18,7 +18,7 @@ export default function ContactsPage() {
         kicker="Контакти"
         title="Як до нас потрапити"
         lede="Найшвидший спосіб — Telegram, відповідаємо за 5 хвилин у робочий час. Або заповни форму — передзвонимо протягом 30 хвилин."
-        image="pixabay_2345701.jpg"
+        image="pixabay_2345701.webp"
         crumbs={[{ label: 'Контакти' }]}
       />
 

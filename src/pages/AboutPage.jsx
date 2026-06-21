@@ -8,7 +8,7 @@ export default function AboutPage() {
         kicker="Про нас"
         title="Сім років з одним стандартом"
         lede="Відкрилися у 2018-му на Михайлівській з простою ідеєю — стригти як для себе. Без поспіху, шаблонів і нав'язування."
-        image="pixabay_2165745.jpg"
+        image="pixabay_2165745.webp"
         crumbs={[{ label: 'Про нас' }]}
       />
 
